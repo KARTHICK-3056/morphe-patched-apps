@@ -26,7 +26,7 @@ Rootless usage requires microG, so first download MicroG-RE.
 - [Download MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases)
 
 
-## CreditsðŸ’™
+## Credits🤍
 
 - **[MorpheApp](https://github.com/MorpheApp)** - Main project
 - **[LisoUseInAIKyrios](https://github.com/LisoUseInAIKyrios)** - [Patches](https://github.com/MorpheApp/morphe-patches) & [Morphe Manager](https://github.com/MorpheApp/morphe-manager)
