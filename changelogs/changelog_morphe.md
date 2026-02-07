@@ -1,8 +1,8 @@
 # Morphe Patches
-- ***Patch Version/Date:*** v1.9.0/2026-02-05
-- ***YT Version:*** v21.03.36
+- ***Patch Version/Date:*** v1.11.0/2026-02-07
+- ***YT Version:*** v21.04.223
 - ~~***YTM Version:*** v9.03.52~~
-### ***[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.9.0)***
-### ***[Compare Changes with Previous Patch Version](https://github.com/MorpheApp/morphe-patches/compare/v1.8.0...v1.9.0)***
+### ***[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.11.0)***
+### ***[Compare Changes with Previous Patch Version](https://github.com/MorpheApp/morphe-patches/compare/v1.9.0...v1.11.0)***
 ---
 ### **[GitHub](https://github.com/KARTHICK-3056/morphe-patched-apps)**
