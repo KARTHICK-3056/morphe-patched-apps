@@ -1,6 +1,6 @@
 # Morphe Patches PreBuild
 
-Pre-patched YouTube and YouTube Music builds with Morphe Patches, available for both rooted and non-rooted devices.
+Pre-patched YouTube, YouTube Music and Reddit builds with Morphe Patches, for both rooted and non-rooted devices.
 
 ## Installation Guide
 
